@@ -1,0 +1,61 @@
+body {
+  background-color: #E0DDE8;
+  margin: 0;
+}
+
+#tribute-title {
+  text-align: center;
+}
+
+#tribute-title h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+}
+
+
+#img-div {
+  background-color: #056199;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  margin-top: 10px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+#tribute-info {
+  background-color: #4B5264;
+  color: white;
+}
+
+#tribute-info > article {
+  padding: 10px;
+  border-bottom: 1px solid white;
+  margin-bottom: 10px;
+}
+
+#seemore {
+  margin: 0;
+  padding: 10px;
+}
+
+#seemore a {
+  color: white;
+  text-decoration: none;
+}
