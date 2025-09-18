@@ -29,4 +29,3 @@ Contribuições são bem-vindas! Se quiser sugerir melhorias, abra um **pull req
 
 ---
 📌 Feito por [SW Wanted](https://github.com/SW-WANTED) | FreeCodeCamp Certification Project
-

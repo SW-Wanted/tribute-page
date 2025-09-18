@@ -1,5 +1,5 @@
 body {
-  background-color: #E0DDE8;
+  background-color: #e0dde8;
   margin: 0;
 }
 
@@ -12,7 +12,6 @@ body {
   font-size: 2em;
   font-weight: 700;
 }
-
 
 #img-div {
   background-color: #056199;
@@ -40,7 +39,7 @@ body {
 }
 
 #tribute-info {
-  background-color: #4B5264;
+  background-color: #4b5264;
   color: white;
 }
 
